@@ -1,0 +1,1 @@
+# Jugaad\n\nIndia-first discovery, rewards and social challenge app with a premium glassmorphism interface.\n\nSelf-contained static front end. Deploy directly to Vercel. No AI services or external runtime dependencies.\n
